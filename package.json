@@ -1,0 +1,16 @@
+{
+   "name": "first-blockchain-game",
+   "version": "1.0.0",
+   "description": "First blockchain game project",
+   "author": "Paulo Rodrigues",
+   "license": "ISC",
+   "dependencies": {
+      "@openzeppelin/contracts": "4.3.2",
+      "chai": "4.3.4",
+      "chai-as-promised": "7.1.1",
+      "create-react-app": "4.0.3",
+      "process-nextick-args": "2.0.1",
+      "safe-buffer": "5.1.2",
+      "util-deprecate": "1.0.2"
+   }
+}
